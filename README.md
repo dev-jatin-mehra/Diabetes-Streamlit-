@@ -2,15 +2,11 @@
 
 This Streamlit app predicts the likelihood of diabetes based on input features such as glucose level, blood pressure, BMI, etc.
 
-## Demo
-
-Include a link or GIF demonstrating how to use your app here.
-
 ## Features
 
 - Predicts the likelihood of diabetes using machine learning models.
 - Provides a user-friendly interface for inputting data.
-- Displays prediction results along with explanations.
+- Displays prediction as displaying a message
 
 ## Installation
 
