@@ -7,7 +7,7 @@ This is a temporary script file.
 
 import numpy as np
 import pickle
-loaded_model = pickle.load(open('E:/Diabetes_prediction_webapp/trained_model.sav','rb'))
+loaded_model = pickle.load(open('./diabetes_trained_model.sav','rb'))
 
 input_data=(3,82,70,0,0,21.1,0.389,25)
 
